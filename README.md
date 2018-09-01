@@ -50,6 +50,8 @@ source ~/.zshrc
   * 'themes' directory: `~/.oh-my-zsh/themes/`
   * 'plugins' directory: `~/.oh-my-zsh/plugins/`
 
-## References
+## Useful Links
 
 * [Installing Ubuntu 18.04 along with Windows 10](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557)
+* [Enable 3d-acceleration on Virtualbox](https://blogs.oracle.com/scoter/3d-acceleration-for-ubuntu-guests-v2)
+* [bash-insulter (For fun!)](https://github.com/hkbakke/bash-insulter)
